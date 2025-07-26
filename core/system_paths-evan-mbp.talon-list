@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: evan-mbp
+-
+user: /Users/evan
+desktop: /Users/evan/Desktop
+desk: /Users/evan/Desktop
+documents: /Users/evan/Documents
+docks: /Users/evan/Documents
+downloads: /Users/evan/Downloads
+music: /Users/evan/Music
+pictures: /Users/evan/Pictures
+videos: /Users/evan/Videos
+talon home: /Users/evan/.talon
+talon recordings: /Users/evan/.talon/recordings
+talon user: /Users/evan/.talon/user
+home: /Users/evan
